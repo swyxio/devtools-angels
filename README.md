@@ -13,3 +13,7 @@ active angel investors in developer tools!
 - Swyx - [site](https://swyx.io/about)
 
   > I do $5-10k checks in devtools startups and am a scout for [Chapter One](http://chapterone.vc/) where I can do bigger checks! 
+  
+- Cassidy Williams - [site](https://cassidoo.co)
+
+  > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. [DMing me on Twitter](https://twitter.com/cassidoo) is the fastest way to reach me.
