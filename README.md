@@ -1,6 +1,6 @@
 # devtools-angels
 
-index of angel investors in developer tools!
+active angel investors in developer tools!
 
 - Max Stoiber - [site](https://mxstbr.com/investing/)
 
