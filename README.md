@@ -21,3 +21,7 @@ active angel investors in developer tools!
 - Beyang Liu - [site](https://beyang.org/time-to-build-dev-tools.html), [DM](https://twitter.com/beyang), [podcast](https://about.sourcegraph.com/podcast/)
 
   > I enjoy helping dev tool creators build top-notch teams, figure out go-to-market, and meet other great investors. I've been working on developer tools for most of the past decade as CTO and co-founder of [Sourcegraph](https://sourcegraph.com). I host a [podcast](https://about.sourcegraph.com/podcast/) featuring creators of dev tools--if you've built something you'd love to share with the developer world, I'd love to have you on the show!
+  
+- Brian Douglas - [site](https://bdougie.live)
+
+  > I am connected to the Heavybit Accelerator in San Francisco and work in the Developer Relations at GitHub. I invest my own money into early-stage startups and excited to learn about new Developer Tools. 
