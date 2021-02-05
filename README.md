@@ -25,3 +25,7 @@ active angel investors in developer tools!
 - David Yang - [site](http://davidyang.net)
 
   > I co-founded [Fullstack Academy](https://www.fullstackacademy.com) which has trained thousands of developers.  Currently investing $25-50K checks in devtools, low-code/no-code and ed-tech.
+  
+- Brian Douglas - [site](https://bdougie.live)
+
+  > I am connected to the Heavybit Accelerator in San Francisco and work in the Developer Relations at GitHub. I invest my own money into early-stage startups and excited to learn about new Developer Tools. 
