@@ -10,7 +10,7 @@ active angel investors in developer tools!
 
   > I’m a technologist. I studied CS at MIT and still write code. When I invest, I specifically look for technical founders building dev tools, API platforms, and “unloved” workflow cloud SaaS. I founded both Nylas and WorkOS and worked at Dropbox so this is an area I know well. My typical check size is around $100k but I can flex and get creative for bigger rounds too. If I invest, I will offer introductions to other investors I know (and like). This can help fill out a larger round. [more here](https://twitter.com/grinich/status/1357103610421673984?s=20)
 
-- Swyx - [site](https://swyx.io/about)
+- Swyx - [site](https://swyx.io/about), email `swyx at hey dot com`
 
   > Sr. Dev Advocate/PM at AWS, Netlify, Temporal. Dev Community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-10k checks in devtools startups and am a scout for [Chapter One](http://chapterone.vc/) where I can do bigger checks! 
   
