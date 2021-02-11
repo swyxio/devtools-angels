@@ -12,7 +12,7 @@ active angel investors in developer tools!
 
 - Swyx - [site](https://swyx.io/about), email `swyx at hey dot com`
 
-  > Sr. Dev Advocate/PM at AWS, Netlify, Temporal. Dev Community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-10k checks in devtools startups and am a scout for [Chapter One](http://chapterone.vc/) where I can do bigger checks! 
+  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Dev Community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging) and am a scout for [Chapter One](http://chapterone.vc/) where I can do bigger checks! 
   
 - Cassidy Williams - [site](https://cassidoo.co)
 
