@@ -1,6 +1,6 @@
 # devtools-angels
 
-active angel investors in developer tools!
+active angel investors in developer tools! For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md).
 
 - Max Stoiber - [site](https://mxstbr.com/investing/)
 
