@@ -29,3 +29,7 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
 - Brian Douglas - [site](https://bdougie.live)
 
   > I am connected to the Heavybit Accelerator in San Francisco and work in the Developer Relations at GitHub. I invest my own money into early-stage startups and excited to learn about new Developer Tools. 
+
+- Gergely Orosz - [site](https://blog.pragmaticengineer.com/), [DM](https://twitter.com/GergelyOrosz)
+
+ > Previously at engineer and engineering manager at Uber and Skype. Interested in investing in platform engineering startups (including developer tools). On top of investing, I can help advise with running and growing lean and efficient engineering teams.
