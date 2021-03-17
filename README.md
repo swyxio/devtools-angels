@@ -32,4 +32,4 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
 
 - Gergely Orosz - [site](https://blog.pragmaticengineer.com/), [DM](https://twitter.com/GergelyOrosz)
 
- > Previously at engineer and engineering manager at Uber and Skype. Interested in investing in platform engineering startups (including developer tools). On top of investing, I can help advise with running and growing lean and efficient engineering teams.
+  > Previously at engineer and engineering manager at Uber and Skype. Interested in investing in platform engineering startups (including developer tools). On top of investing, I can help advise with running and growing lean and efficient engineering teams.
