@@ -1,6 +1,6 @@
 # devtools-angels
 
-active angel investors in developer tools! For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md).
+active angel investors in developer tools! For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). No particular order here.
 
 - Max Stoiber - [site](https://mxstbr.com/investing/)
 
@@ -33,3 +33,20 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
 - Gergely Orosz - [site](https://blog.pragmaticengineer.com/), [DM](https://twitter.com/GergelyOrosz)
 
   > Previously at engineer and engineering manager at Uber and Skype. Interested in investing in platform engineering startups (including developer tools). On top of investing, I can help advise with running and growing lean and efficient engineering teams.
+
+- Brianne Kimmel - [twitter](https://twitter.com/briannekimmel), [Worklife.vc](https://www.worklife.vc/)
+  
+  > Worklife.vc, investor in Mux, WorkOS, Webflow, Stytch and more!
+
+- Ellen Chisa - [twitter](https://twitter.com/ellenchisa/), [site](https://www.ellenchisa.com/), [BoldStart.vc](https://www.boldstart.vc/)
+
+  > Cofounder at Dark, Lola, and early Kickstarter/Office Mobile.
+  > I advise and invest small checks in startups. I invest in companies where I'm excited about the founders, want to learn something about the space, and see a way for me to add value. I'm also a founder in residence at Boldstart and support Oliners through parcelb.vc.
+
+- Christina Cordova - [twitter](https://twitter.com/cjc)
+
+  > Head of Product @ Notion
+
+- Stephanie Friedman - [twitter](https://twitter.com/she_travels)
+
+  > Xamarin, Netlify, Tailscale, etc
