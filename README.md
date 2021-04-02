@@ -50,3 +50,8 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
 - Stephanie Friedman - [twitter](https://twitter.com/she_travels)
 
   > Xamarin, Netlify, Tailscale, etc
+
+- Manuel Weiss - [twitter](https://twitter.com/manualwise/), [site](https://manuelweiss.net/)
+
+  > Developer Marketing B2B Consultant, previously cofounder at Codeship (acquired by CloudBees)
+  > I am an angel investor and advisor to dev startups in the pre-seed and seed stage. I sign $5k-$10k tickets and invest in founders and their companies where I can provide proven value. I'm a pro-active, hands-on angel with a founder background that can help with Developer Marketing + B2B Sales.
