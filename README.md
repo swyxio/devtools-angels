@@ -50,3 +50,8 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
 - Stephanie Friedman - [twitter](https://twitter.com/she_travels)
 
   > Xamarin, Netlify, Tailscale, etc
+
+- Michael Rybintsev - [site](https://alanmynah.com), [DM](https://twitter.com/alanmynah)
+
+  > Infrastructure consulting and factotum at [Scrimba](https://scrimba.com/), previously an engineer at Huddle and HT2 Labs. Interested in devtools and edtech.
+
