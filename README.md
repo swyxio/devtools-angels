@@ -51,6 +51,10 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
 
   > Xamarin, Netlify, Tailscale, etc
 
+- Michael Rybintsev - [site](https://alanmynah.com), [DM](https://twitter.com/alanmynah)
+
+  > Infrastructure consulting, factotum at [Scrimba](https://scrimba.com/), previously an engineer at Huddle and HT2 Labs. Interested in devtools and edtech.
+
 - Manuel Weiss - [twitter](https://twitter.com/manualwise/), [site](https://manuelweiss.net/)
 
   > Developer Marketing B2B Consultant, previously cofounder at Codeship (acquired by CloudBees)
