@@ -59,3 +59,10 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
 
   > Developer Marketing B2B Consultant, previously cofounder at Codeship (acquired by CloudBees)
   > I am an angel investor and advisor to dev startups in the pre-seed and seed stage. I sign $5k-$10k tickets and invest in founders and their companies where I can provide proven value. I'm a pro-active, hands-on angel with a founder background that can help with Developer Marketing + B2B Sales.
+
+- Dion Almaer - [twitter](https://twitter.com/dalmaer/)
+
+  > Director, Web Developer Ecosystem at Google. I lead product for developer tools such as Chrome DevTools, and have been in the developer tooling space
+  > for most of my career, e.g. building Bespin and co-leading developer tools at Mozilla, working on the webOS developer ecosystem, and multiple startups.
+  > I have been an angel investor for the last decade, and love working with developer-oriented platform and tooling companies. As an LP I work with one
+  > of the best VCs in the open source and developer space, [Uncorrelated](https://uncorrelated.com/).
