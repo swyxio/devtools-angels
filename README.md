@@ -66,3 +66,7 @@ active angel investors in developer tools! For dev industry tracking see [sw-yx/
   > for most of my career, e.g. building Bespin and co-leading developer tools at Mozilla, working on the webOS developer ecosystem, and multiple startups.
   > I have been an angel investor for the last decade, and love working with developer-oriented platform and tooling companies. As an LP I work with one
   > of the best VCs in the open source and developer space, [Uncorrelated](https://uncorrelated.com/).
+
+- Brian Lovin - [site](https://brianlovin.com), [twitter](https://twitter.com/brian_lovin)
+
+  > I'm a product designer currently working on the mobile apps at GitHub. I love working with developers, building developer tools, and working with early stage companies that need design help. I write $5-10k checks and only invest when I feel confident that I'm going to provide real value to a company. My value will primarily come from design and product feedback, hiring and recruiting, and helping early design hires ramp up and have external support.
