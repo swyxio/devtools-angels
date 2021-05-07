@@ -2,6 +2,9 @@
 
 active angel investors in developer tools! For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). No particular order here but we hope we are high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
+- Moritz Plassnig - [site](https://www.moritzplassnig.com/angel-investments/)
+  > I write angel + scout fund checks ($5-25K) in data or dev tool startups. First check or seed/A preferred. I don't care who else invests and geo is irrelevant as long as it's a reasonable legal entity. I can help best with everything product, go2market, company strategy, fundraising, and ceo/exec coaching.
+
 - Max Stoiber - [site](https://mxstbr.com/investing/)
 
   > I irregularly angel invest small checks ($2500-$5000) of my own money in early-stage startups I'm excited about. Think of me as an advisor with skin in the game — I love helping with tricky, ambiguous problems, providing access to my network and audience, or even just lending an ear to founders building exciting new things.
