@@ -2,6 +2,8 @@
 
 active angel investors in developer tools! For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). No particular order here but we hope we are high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
+We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will also setup a dedicated newsletter soon.
+
 - Moritz Plassnig - [site](https://www.moritzplassnig.com/angel-investments/) / [twitter](https://twitter.com/moritzplassnig)
   > I founded/sold Codeship and write angel + scout fund checks ($5-25K) in data or dev tool startups. First check or seed/A preferred. I don't care who else invests and geo is irrelevant as long as it's a reasonable legal entity. I can help best with everything product, go2market, company strategy, fundraising, and ceo/exec coaching. DM on Twitter is best for reaching out.
 
