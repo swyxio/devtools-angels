@@ -75,3 +75,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Brian Lovin - [site](https://brianlovin.com), [twitter](https://twitter.com/brian_lovin)
 
   > I'm a product designer currently working on the mobile apps at GitHub. I love working with developers, building developer tools, and working with early stage companies that need design help. I write $5-10k checks and only invest when I feel confident that I'm going to provide real value to a company. My value will primarily come from design and product feedback, hiring and recruiting, and helping early design hires ramp up and have external support.
+
+- Eugene Yan - [site](https://eugeneyan.com), [twitter](https://twitter.com/eugeneyan)
+
+	> Applied Science at Amazon. Previously led data science at Lazada (acquired by Alibaba) and ucare.ai. I write $10 - 20k checks for dev tools in the data and ML space (deployment, testing, monitoring, etc.); also e-commerce and ed-tech. In addition to investing, I also help with advising and intros to other tech advisors and VCs.
