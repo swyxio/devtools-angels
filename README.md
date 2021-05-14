@@ -1,6 +1,6 @@
 # devtools-angels
 
-active angel investors in developer tools! For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). No particular order here but we hope we are high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
+active angel investors in developer tools! For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). There is **no particular order** here but we hope we are high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
 We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will also setup a dedicated newsletter soon.
 
