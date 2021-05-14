@@ -79,3 +79,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Eugene Yan - [site](https://eugeneyan.com), [twitter](https://twitter.com/eugeneyan)
 
 	> Applied Science at Amazon. Previously led data science at Lazada (acquired by Alibaba) and ucare.ai. I write $10 - 20k checks for dev tools in the data and ML space (deployment, testing, monitoring, etc.); also e-commerce and ed-tech. In addition to investing, I also help with advising and intros to other tech advisors and VCs.
+
+- Zeno Rocha - [site](https://zenorocha.com), [twitter](https://twitter.com/zenorocha)
+
+  > I'm a developer experience aficionado. I have a deep understanding of the enterprise market and open source software. Co-founded Liferay Cloud and built some popular projects such as [clipboard.js](https://github.com/zenorocha/clipboard.js) and [Dracula](https://draculatheme.com/pro/journey). I can help with branding, product strategy, and go-to-market. I invest small checks in developer-first startups.
