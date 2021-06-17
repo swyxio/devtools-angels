@@ -87,3 +87,8 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Kenneth Auchenberg - [site](https://kenneth.io), [twitter](https://twitter.com/auchenberg)
 
   > Developer Products @ Stripe. I write $5-25k checks, and are a part of a larger community of angels via developers.vc. If you're building something that is empowering people to build, increase productivity, avoid repetition, ship faster, or something of this along these lines. I want to talk to you. [developers.vc](https://developers.vc)
+
+
+- Tigran Hakobyan - [site](https://tik.dev), [twitter](https://twitter.com/tiggreen)
+
+  > I'm a senior software engineer at Netflix working on developer tools and productivity. I love working with early-stage companies that are building tools that shape how developers work and ship software. I write $5-10k checks and invest in companies that I strongly believe in. I can help with product strategy and engineering work.
