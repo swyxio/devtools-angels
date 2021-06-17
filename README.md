@@ -83,3 +83,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Zeno Rocha - [site](https://zenorocha.com), [twitter](https://twitter.com/zenorocha)
 
   > I'm a developer experience aficionado. I have a deep understanding of the enterprise market and open source software. Co-founded Liferay Cloud and built some popular projects such as [clipboard.js](https://github.com/zenorocha/clipboard.js) and [Dracula](https://draculatheme.com/pro/journey). I can help with branding, product strategy, and go-to-market. I invest small checks in developer-first startups.
+
+- Kenneth Auchenberg - [site](https://kenneth.io), [twitter](https://twitter.com/auchenberg)
+
+  > Developer Products @ Stripe. I write $5-25k checks, and are a part of a larger community of angels via developers.vc. If you're building something that is empowering people to build, increase productivity, avoid repetition, ship faster, or something of this along these lines. I want to talk to you. [developers.vc](https://developers.vc)
