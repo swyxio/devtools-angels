@@ -10,6 +10,9 @@ This list has already helped [connect startup founders to angels](https://twitte
 
 We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will also setup a dedicated newsletter soon.
 
+- David Mytton - [site](https://davidmytton.blog), [twitter](https://twitter.com/davidmytton), [podcast](https://podcast.console.dev), [email](mailto:david@console.dev)
+  > I'm co-founder of [Console](https://console.dev), a place for developers to find the best tools. I invest around $25k in early stage devtools / devops / cloud related startups and can help specifically with getting your first users/customers, and with hiring engineers. From 2009-2018, I was CEO at Server Density, a SaaS infrastructure monitoring startup acquired by StackPath, a US-based edge computing business. I am a researcher in sustainable computing at Uptime Institute and affiliated with Imperial College London. I'm also an EIR at Seedcamp.
+
 - Moritz Plassnig - [site](https://www.moritzplassnig.com/angel-investments/) / [twitter](https://twitter.com/moritzplassnig)
   > I founded/sold Codeship and write angel + scout fund checks ($5-25K) in data or dev tool startups. First check or seed/A preferred. I don't care who else invests and geo is irrelevant as long as it's a reasonable legal entity. I can help best with everything product, go2market, company strategy, fundraising, and ceo/exec coaching. DM on Twitter is best for reaching out.
 
