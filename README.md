@@ -78,7 +78,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
   > I have been an angel investor for the last decade, and love working with developer-oriented platform and tooling companies. As an LP I work with one
   > of the best VCs in the open source and developer space, [Uncorrelated](https://uncorrelated.com/).
 
-- Brian Lovin - [site](https://brianlovin.com), [twitter](https://twitter.com/brian_lovin)
+- Brian Lovin - [site](https://brianlovin.com), [twitter](https://twitter.com/brian_lovin), [learning](https://brianlovin.com/writing/what-ive-learned-so-far-about-design-advising-and-angel-investing)
 
   > I'm a product designer currently working on the mobile apps at GitHub. I love working with developers, building developer tools, and working with early stage companies that need design help. I write $5-10k checks and only invest when I feel confident that I'm going to provide real value to founders. My value will primarily come from design and product feedback, helping with hiring processes (writing job descriptions, reviewing portfolios, etc.), and helping early design hires ramp up with external support.
 
