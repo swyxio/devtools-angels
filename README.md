@@ -102,5 +102,9 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 
 - Sankalp Agarwal - [site](https://sankalp0o.com), [twitter](https://twitter.com/shanky0o)
 
- > I'm a product designer specialising in Enterprise SaaS and DevTools. I was an early design leader, product manager in Postman and now I help developer-makers create a better experience for their products. My focus is not so much on dev tools as it is on collaboration between developers. Typical checks are $1-5K. I can help with design hiring, or any remote tech-related roles from India.
+  > I'm a product designer specialising in Enterprise SaaS and DevTools. I was an early design leader, product manager in Postman and now I help developer-makers create a better experience for their products. My focus is not so much on dev tools as it is on collaboration between developers. Typical checks are $1-5K. I can help with design hiring, or any remote tech-related roles from India.
+
+- Tracy Lee - [site](https://thisdotlabs.com), [personal site](https://ladyleet.com), [twitter](https://twitter.com/ladyleet)
+
+  > I'm the CEO of This Dot Labs, on the RxJS Core Team, Google Developer Expert, Microsoft MVP, and a serial entrepreneur that sold a tech startup before deciding to learn how to code. My focus is investing in awesome teams and ideas in the developer space. The easiest way to reach me is by DMing me on twitter!
 
