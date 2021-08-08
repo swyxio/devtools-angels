@@ -108,3 +108,6 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 
   > I'm the CEO of This Dot Labs, on the RxJS Core Team, Google Developer Expert, Microsoft MVP, and a serial entrepreneur that sold a tech startup before deciding to learn how to code. My focus is investing in awesome teams and ideas in the developer space. The easiest way to reach me is by DMing me on twitter!
 
+- Patrick Thompson - [site](https://patrickthompson.com), [twitter](https://twitter.com/patrickt010)
+
+  > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
