@@ -8,7 +8,7 @@ This list has already helped [connect startup founders to angels](https://twitte
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
-We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will also setup a dedicated newsletter soon.
+We share [dealflow in Discord](https://discord.gg/4vUBeNHNky) for now but will also setup a dedicated newsletter soon.
 
 - David Mytton - [site](https://davidmytton.blog), [twitter](https://twitter.com/davidmytton), [podcast](https://podcast.console.dev), [email](mailto:david@console.dev)
   > I'm co-founder of [Console](https://console.dev), a place for developers to find the best tools. I invest around $25k in early stage devtools / devops / cloud related startups and can help specifically with getting your first users/customers, and with hiring engineers. From 2009-2018, I was CEO at Server Density, a SaaS infrastructure monitoring startup acquired by StackPath, a US-based edge computing business. I am a researcher in sustainable computing at Uptime Institute and affiliated with Imperial College London. I'm also an EIR at Seedcamp.
@@ -106,4 +106,3 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Sankalp Agarwal - [site](https://sankalp0o.com), [twitter](https://twitter.com/shanky0o)
 
  > I'm a product designer specialising in Enterprise SaaS and DevTools. I was an early design leader, product manager in Postman and now I help developer-makers create a better experience for their products. My focus is not so much on dev tools as it is on collaboration between developers. Typical checks are $1-5K. I can help with design hiring, or any remote tech-related roles from India.
-
