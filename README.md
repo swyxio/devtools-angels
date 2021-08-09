@@ -81,9 +81,9 @@ We share [dealflow in Discord](https://discord.gg/4vUBeNHNky) for now but will a
   > I have been an angel investor for the last decade, and love working with developer-oriented platform and tooling companies. As an LP I work with one
   > of the best VCs in the open source and developer space, [Uncorrelated](https://uncorrelated.com/).
 
-- Brian Lovin - [site](https://brianlovin.com), [twitter](https://twitter.com/brian_lovin)
+- Brian Lovin - [site](https://brianlovin.com), [twitter](https://twitter.com/brian_lovin), [learning](https://brianlovin.com/writing/what-ive-learned-so-far-about-design-advising-and-angel-investing)
 
-  > I'm a product designer currently working on the mobile apps at GitHub. I love working with developers, building developer tools, and working with early stage companies that need design help. I write $5-10k checks and only invest when I feel confident that I'm going to provide real value to a company. My value will primarily come from design and product feedback, hiring and recruiting, and helping early design hires ramp up and have external support.
+  > I'm a product designer currently working on the mobile apps at GitHub. I love working with developers, building developer tools, and working with early stage companies that need design help. I write $5-10k checks and only invest when I feel confident that I'm going to provide real value to founders. My value will primarily come from design and product feedback, helping with hiring processes (writing job descriptions, reviewing portfolios, etc.), and helping early design hires ramp up with external support.
 
 - Eugene Yan - [site](https://eugeneyan.com), [twitter](https://twitter.com/eugeneyan)
 
@@ -97,12 +97,18 @@ We share [dealflow in Discord](https://discord.gg/4vUBeNHNky) for now but will a
 
   > Developer Products @ Stripe. I write $5-25k checks, and are a part of a larger community of angels via developers.vc. If you're building something that is empowering people to build, increase productivity, avoid repetition, ship faster, or something of this along these lines. I want to talk to you. [developers.vc](https://developers.vc)
 
-
 - Tigran Hakobyan - [site](https://tik.dev), [twitter](https://twitter.com/tiggreen)
 
   > I'm a senior software engineer at Netflix working on developer tools and productivity. I love working with early-stage companies that are building tools that shape how developers work and ship software. I write $5-10k checks and invest in companies that I strongly believe in. I can help with product strategy and engineering work.
 
-
 - Sankalp Agarwal - [site](https://sankalp0o.com), [twitter](https://twitter.com/shanky0o)
 
- > I'm a product designer specialising in Enterprise SaaS and DevTools. I was an early design leader, product manager in Postman and now I help developer-makers create a better experience for their products. My focus is not so much on dev tools as it is on collaboration between developers. Typical checks are $1-5K. I can help with design hiring, or any remote tech-related roles from India.
+  > I'm a product designer specialising in Enterprise SaaS and DevTools. I was an early design leader, product manager in Postman and now I help developer-makers create a better experience for their products. My focus is not so much on dev tools as it is on collaboration between developers. Typical checks are $1-5K. I can help with design hiring, or any remote tech-related roles from India.
+
+- Tracy Lee - [site](https://thisdotlabs.com), [personal site](https://ladyleet.com), [twitter](https://twitter.com/ladyleet)
+
+  > I'm the CEO of This Dot Labs, on the RxJS Core Team, Google Developer Expert, Microsoft MVP, and a serial entrepreneur that sold a tech startup before deciding to learn how to code. My focus is investing in awesome teams and ideas in the developer space. The easiest way to reach me is by DMing me on twitter!
+
+- Patrick Thompson - [site](https://patrickthompson.com), [twitter](https://twitter.com/patrickt010)
+
+  > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
