@@ -112,3 +112,7 @@ We share [dealflow in Discord](https://discord.gg/4vUBeNHNky) for now but will a
 - Patrick Thompson - [site](https://patrickthompson.com), [twitter](https://twitter.com/patrickt010)
 
   > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
+
+- Hassan El Mghari - [site](https://www.hassanelmghari.com/), [twitter](https://twitter.com/Nutlope), [email](mailto:hassan@hey.com)
+
+  > Devrel & Head of Growth at Fig. Previously founder/CEO of UltraShock Gaming (sold Oct 2020) where I built a community of 500k people. I write $1-4k checks in developer-focused startups & am a scout for [Sahil's](https://twitter.com/shl) fund where I can do bigger checks. I can help with community building, product feedback, & developer marketing strategy.
