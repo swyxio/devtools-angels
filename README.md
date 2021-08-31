@@ -10,7 +10,7 @@ This list has already helped [connect startup founders to angels](https://twitte
 
 We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will also setup a dedicated newsletter soon.
 
-[![Discord Shield](https://discordapp.com/api/guilds/822583790773862470/widget.png?style=shield)](https://discord.gg/Zzqxwfge8W)
+[![Discord Shield](https://discordapp.com/api/guilds/822583790773862470/widget.png?style=banner3)](https://discord.gg/Zzqxwfge8W)
 
 ## Angels
 
