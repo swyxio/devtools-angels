@@ -116,3 +116,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Patrick Thompson - [site](https://patrickthompson.com), [twitter](https://twitter.com/patrickt010)
 
   > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
+
+- Ilya Lyamkin - [site](https://lyamkin.com), [twitter](https://twitter.com/ilyamkin)
+
+  > I'm a senior software engineer at Spotify working on developer platform and productivity. I'm excited about early stage startups focused on dev tools, developer productivity and fintech. I write $5-25k checks and invest in teams that can turn complex problem into simple solution. My value will come from product strategy, engineering work, and hiring.
