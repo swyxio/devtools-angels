@@ -116,3 +116,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Patrick Thompson - [site](https://patrickthompson.com), [twitter](https://twitter.com/patrickt010)
 
   > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
+
+- Thomas Schranz - [site](https://magic.do), [twitter](https://twitter.com/__tosh), [github](http://github.com/tosh)
+
+  > Working on Jam, an open source implementation of Clubhouse-like audio rooms. I'm into functional programming, machine learning, array programming languages (APL, j, q, k), no-code, command line interfaces, hosting platforms, databases, developer user-experience. I write $5-50k checks, typically pre-launch. Love working with early-stage teams on product strategy, community, marketing, branding, design, business model, hiring. StarCraft II amateur.
