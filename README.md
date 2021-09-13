@@ -4,7 +4,11 @@ active angel investors in developer tools!
 
 There is **no particular order** here but we aim to be high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
-This list has already helped [connect startup founders to angels](https://twitter.com/elitasson/status/1405616514972196866?s=20)! :)
+This list has already helped [connect startup founders to angels](https://twitter.com/elitasson/status/1405616514972196866?s=20)! **Deals sourced so far as a result of this community:**
+
+- [Utopia.app](https://utopia.app/)
+- [Supabase.io](https://supabase.io/)
+- [Nhost.io](https://nhost.io/)
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
