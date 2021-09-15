@@ -9,6 +9,7 @@ This list has already helped [connect startup founders to angels](https://twitte
 - [Utopia.app](https://utopia.app/)
 - [Supabase.io](https://supabase.io/)
 - [Nhost.io](https://nhost.io/)
+- [Makelog](https://makelog.com/)
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
