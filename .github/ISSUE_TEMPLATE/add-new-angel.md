@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+> !IMPORTANT: Read http://blog.rongarret.info/2017/07/things-i-wish-someone-had-told-me.html if you are a new angel
+
 To include:
 
 - Your preferred name
