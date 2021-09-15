@@ -13,7 +13,7 @@ This list has already helped [connect startup founders to angels](https://twitte
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
-We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will also setup a dedicated newsletter soon.
+We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but may setup a newsletter/no-fee syndicate someday.
 
 [![Discord Shield](https://discordapp.com/api/guilds/822583790773862470/widget.png?style=banner3)](https://discord.gg/Zzqxwfge8W)
 
