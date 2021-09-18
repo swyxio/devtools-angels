@@ -25,7 +25,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but may se
 
 No particular order, please dont read anything into the ordering
 
-- Swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io]
+- swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
 
   > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - Replay.io (Time travel debugging - [backed by a16z](https://a16z.com/2021/09/15/investing-in-replay/)), Supabase.io (Open source Firebase - [backed by Coatue](https://techcrunch.com/2021/09/09/supabase-raises-30m-for-its-open-source-insta-backend/)).
   
