@@ -8,10 +8,14 @@ There is **no particular order** here but we aim to be high caliber [level 1](ht
 
 This list has already helped [connect startup founders to angels](https://twitter.com/elitasson/status/1405616514972196866?s=20)!
 
+Confirmed investments:
+
 - [Utopia.app](https://utopia.app/)
 - [Supabase.io](https://supabase.io/)
 - [Nhost.io](https://nhost.io/)
 - [Makelog](https://makelog.com/)
+
+Intros made for: Lambdragon, Cloudthread...
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
