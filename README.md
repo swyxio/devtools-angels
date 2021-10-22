@@ -14,6 +14,7 @@ Confirmed investments:
 - [Supabase.io](https://supabase.io/)
 - [Nhost.io](https://nhost.io/)
 - [Makelog](https://makelog.com/)
+- [Cased](https://cased.com/)
 
 Intros made for: Lambdragon, Cloudthread...
 
