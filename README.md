@@ -132,3 +132,7 @@ No particular order, please dont read anything into the ordering
 - Patrick Thompson - [site](https://patrickthompson.com), [twitter](https://twitter.com/patrickt010)
 
   > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
+
+- Chang Xu - [site](http://dev-founders.com), [twitter](https://twitter.com/_changxu)
+
+  > Partner at Basis Set and organizer at [Dev Founders](https://www.basisset.com/dev-founders), a community of founders building tools for developers, ML, data science, designers, and creators. Previously founder & product manager. I write checks anywhere from $100k-3M and invest at preseed / seed stage.
