@@ -32,7 +32,7 @@ No particular order, please dont read anything into the ordering
 
 - swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
 
-  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - Replay.io (Time travel debugging - [backed by a16z](https://a16z.com/2021/09/15/investing-in-replay/)), Supabase.io (Open source Firebase - [backed by Coatue](https://techcrunch.com/2021/09/09/supabase-raises-30m-for-its-open-source-insta-backend/)).
+  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - Replay.io ([Time travel debugging](https://a16z.com/2021/09/15/investing-in-replay/)), Supabase.io ([Open source Firebase](https://techcrunch.com/2021/09/09/supabase-raises-30m-for-its-open-source-insta-backend/), Flutterflow, Tangram).
   
 - David Mytton - [site](https://davidmytton.blog), [twitter](https://twitter.com/davidmytton), [podcast](https://podcast.console.dev), [email](mailto:david@console.dev)
   > I'm co-founder of [Console](https://console.dev), a place for developers to find the best tools. I invest around $25k in early stage devtools / devops / cloud related startups and can help specifically with getting your first users/customers, and with hiring engineers. From 2009-2018, I was CEO at Server Density, a SaaS infrastructure monitoring startup acquired by StackPath, a US-based edge computing business. I am a researcher in sustainable computing at Uptime Institute and affiliated with Imperial College London. I'm also an EIR at Seedcamp.
@@ -136,3 +136,19 @@ No particular order, please dont read anything into the ordering
 - Kaelig Deloumeau-Prigent – [twitter](https://twitter.com/kaelig)
 
   > Founder of the [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). Worked on DesignOps and design systems at Salesforce, Shopify, BBC, Guardian, and Financial Times. I write $2.5-20k checks and advise companies building tools that lower the bar for DesignOps and design systems. I can help with product strategy, usability, introduction to talent and potential customers.
+  
+- Chang Xu - [site](http://dev-founders.com), [twitter](https://twitter.com/_changxu)
+
+  > Partner at Basis Set and organizer at [Dev Founders](https://www.basisset.com/dev-founders), a community of founders building tools for developers, ML, data science, designers, and creators. Previously founder & product manager. I write checks anywhere from $100k-3M and invest at preseed / seed stage.
+  
+- Ilya Lyamkin - [site](https://lyamkin.com), [twitter](https://twitter.com/ilyamkin)
+
+  > I'm a senior software engineer at Spotify working on developer platform and productivity. I'm excited about early stage startups focused on dev tools, developer productivity and fintech. I write $5-25k checks and invest in teams that can turn complex problem into simple solution. My value will come from product strategy, engineering work, and hiring.
+  
+- Thomas Schranz - [site](https://magic.do), [twitter](https://twitter.com/__tosh), [github](http://github.com/tosh)
+
+  > Working on Jam, an open source implementation of Clubhouse-like audio rooms. I'm into functional programming, machine learning, array programming languages (APL, j, q, k), no-code, command line interfaces, hosting platforms, databases, developer user-experience. I write $5-50k checks, typically pre-launch. Love working with early-stage teams on product strategy, community, marketing, branding, design, business model, hiring. StarCraft II amateur.
+
+- Alessio Fanelli - [site](https://alessiofanelli.com), [twitter](https://twitter.com/fanahova)
+
+  > I invest in the [Engineering Value Chain Revolution](https://evcrevolution.com/) at 645 Ventures, as well as leading our engineering and data team. I also personally angel invest in infra, dev tools, security, and blockchain tech. I previously founded Smart Torvy, an open source home automation ecosystem, and was a lead engineer at early stage companies like [Welcome Tech](https://welcome.tech/). I contribute to different open source projects [on GitHub](https://github.com/fanahova) as well as writing about open source monetization, community management, and more. You can reach me on Twitter or at afanelli[at]645ventures.com
