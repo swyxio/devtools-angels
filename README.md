@@ -133,6 +133,10 @@ No particular order, please dont read anything into the ordering
 
   > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
 
+- Ilya Lyamkin - [site](https://lyamkin.com), [twitter](https://twitter.com/ilyamkin)
+
+  > I'm a senior software engineer at Spotify working on developer platform and productivity. I'm excited about early stage startups focused on dev tools, developer productivity and fintech. I write $5-25k checks and invest in teams that can turn complex problem into simple solution. My value will come from product strategy, engineering work, and hiring.
+  
 - Thomas Schranz - [site](https://magic.do), [twitter](https://twitter.com/__tosh), [github](http://github.com/tosh)
 
   > Working on Jam, an open source implementation of Clubhouse-like audio rooms. I'm into functional programming, machine learning, array programming languages (APL, j, q, k), no-code, command line interfaces, hosting platforms, databases, developer user-experience. I write $5-50k checks, typically pre-launch. Love working with early-stage teams on product strategy, community, marketing, branding, design, business model, hiring. StarCraft II amateur.
