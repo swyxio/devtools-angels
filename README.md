@@ -152,3 +152,7 @@ No particular order, please dont read anything into the ordering
 - Alessio Fanelli - [site](https://alessiofanelli.com), [twitter](https://twitter.com/fanahova)
 
   > I invest in the [Engineering Value Chain Revolution](https://evcrevolution.com/) at 645 Ventures, as well as leading our engineering and data team. I also personally angel invest in infra, dev tools, security, and blockchain tech. I previously founded Smart Torvy, an open source home automation ecosystem, and was a lead engineer at early stage companies like [Welcome Tech](https://welcome.tech/). I contribute to different open source projects [on GitHub](https://github.com/fanahova) as well as writing about open source monetization, community management, and more. You can reach me on Twitter or at afanelli[at]645ventures.com
+
+- Shinji Kim & Jack McCloy - [Shinji](https://twitter.com/shinjikim), [Jack](https://twitter.com/jackmccloy)
+
+  > Shinji's the founder of [Select Star](https://selectstar.com/) and sold her prior company to Akamai. Jack is an engineer who leads the Design Systems team at Amplitude. We focus on b2b SaaS, data tools, and infrastructure / dev tools. Typically we invest $5-15k at a time and can help with fundraising, product strategy, pricing, hiring, and early stage go-to-market.
