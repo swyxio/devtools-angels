@@ -133,6 +133,10 @@ No particular order, please dont read anything into the ordering
 
   > Director of Product at Amplitude. Previously co-founder/CEO of Iteratively (acquired by Amplitude). Before that managed teams at Atlassian. I write $10-25k checks and love working with early-stage companies helping software teams build better products. I help with product strategy, fundraising, hiring, and early customer introductions.
 
+- Kaelig Deloumeau-Prigent – [twitter](https://twitter.com/kaelig)
+
+  > Founder of the [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). Worked on DesignOps and design systems at Salesforce, Shopify, BBC, Guardian, and Financial Times. I write $2.5-20k checks and advise companies building tools that lower the bar for DesignOps and design systems. I can help with product strategy, usability, introduction to talent and potential customers.
+  
 - Chang Xu - [site](http://dev-founders.com), [twitter](https://twitter.com/_changxu)
 
   > Partner at Basis Set and organizer at [Dev Founders](https://www.basisset.com/dev-founders), a community of founders building tools for developers, ML, data science, designers, and creators. Previously founder & product manager. I write checks anywhere from $100k-3M and invest at preseed / seed stage.
