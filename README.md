@@ -136,6 +136,14 @@ No particular order, please dont read anything into the ordering
 - Chang Xu - [site](http://dev-founders.com), [twitter](https://twitter.com/_changxu)
 
   > Partner at Basis Set and organizer at [Dev Founders](https://www.basisset.com/dev-founders), a community of founders building tools for developers, ML, data science, designers, and creators. Previously founder & product manager. I write checks anywhere from $100k-3M and invest at preseed / seed stage.
+  
+- Ilya Lyamkin - [site](https://lyamkin.com), [twitter](https://twitter.com/ilyamkin)
+
+  > I'm a senior software engineer at Spotify working on developer platform and productivity. I'm excited about early stage startups focused on dev tools, developer productivity and fintech. I write $5-25k checks and invest in teams that can turn complex problem into simple solution. My value will come from product strategy, engineering work, and hiring.
+  
+- Thomas Schranz - [site](https://magic.do), [twitter](https://twitter.com/__tosh), [github](http://github.com/tosh)
+
+  > Working on Jam, an open source implementation of Clubhouse-like audio rooms. I'm into functional programming, machine learning, array programming languages (APL, j, q, k), no-code, command line interfaces, hosting platforms, databases, developer user-experience. I write $5-50k checks, typically pre-launch. Love working with early-stage teams on product strategy, community, marketing, branding, design, business model, hiring. StarCraft II amateur.
 
 - Alessio Fanelli - [site](https://alessiofanelli.com), [twitter](https://twitter.com/fanahova)
 
