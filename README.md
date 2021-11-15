@@ -4,16 +4,36 @@ active angel investors in developer tools!
 
 There is **no particular order** here but we aim to be high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
-This list has already helped [connect startup founders to angels](https://twitter.com/elitasson/status/1405616514972196866?s=20)! :)
+## Dealflow
+
+This list has already helped [connect startup founders to angels](https://twitter.com/elitasson/status/1405616514972196866?s=20)!
+
+Confirmed investments:
+
+- [Utopia.app](https://utopia.app/)
+- [Supabase.io](https://supabase.io/)
+- [Nhost.io](https://nhost.io/)
+- [Makelog](https://makelog.com/)
+- [Cased](https://cased.com/)
+
+Intros made for: Lambdragon, Cloudthread...
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
-We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will also setup a dedicated newsletter soon.
+## Join Discord
+
+We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but may setup a newsletter/no-fee syndicate someday.
 
 [![Discord Shield](https://discordapp.com/api/guilds/822583790773862470/widget.png?style=banner3)](https://discord.gg/Zzqxwfge8W)
 
 ## Angels
 
+No particular order, please dont read anything into the ordering
+
+- swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
+
+  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - Replay.io ([Time travel debugging](https://a16z.com/2021/09/15/investing-in-replay/)), Supabase.io ([Open source Firebase](https://techcrunch.com/2021/09/09/supabase-raises-30m-for-its-open-source-insta-backend/), Flutterflow, Tangram).
+  
 - David Mytton - [site](https://davidmytton.blog), [twitter](https://twitter.com/davidmytton), [podcast](https://podcast.console.dev), [email](mailto:david@console.dev)
   > I'm co-founder of [Console](https://console.dev), a place for developers to find the best tools. I invest around $25k in early stage devtools / devops / cloud related startups and can help specifically with getting your first users/customers, and with hiring engineers. From 2009-2018, I was CEO at Server Density, a SaaS infrastructure monitoring startup acquired by StackPath, a US-based edge computing business. I am a researcher in sustainable computing at Uptime Institute and affiliated with Imperial College London. I'm also an EIR at Seedcamp.
 
@@ -28,10 +48,6 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 
   > I’m a technologist. I studied CS at MIT and still write code. When I invest, I specifically look for technical founders building dev tools, API platforms, and “unloved” workflow cloud SaaS. I founded both Nylas and WorkOS and worked at Dropbox so this is an area I know well. My typical check size is around $100k but I can flex and get creative for bigger rounds too. If I invest, I will offer introductions to other investors I know (and like). This can help fill out a larger round. [more here](https://twitter.com/grinich/status/1357103610421673984?s=20)
 
-- Swyx - [site](https://swyx.io/about), email `swyx at hey dot com`
-
-  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Dev Community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders) and am a scout for [Chapter One](http://chapterone.vc/) where I can do bigger checks! 
-  
 - Cassidy Williams - [site](https://cassidoo.co)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. [DMing me on Twitter](https://twitter.com/cassidoo) is the fastest way to reach me.
@@ -120,3 +136,7 @@ We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but will a
 - Thomas Schranz - [site](https://magic.do), [twitter](https://twitter.com/__tosh), [github](http://github.com/tosh)
 
   > Working on Jam, an open source implementation of Clubhouse-like audio rooms. I'm into functional programming, machine learning, array programming languages (APL, j, q, k), no-code, command line interfaces, hosting platforms, databases, developer user-experience. I write $5-50k checks, typically pre-launch. Love working with early-stage teams on product strategy, community, marketing, branding, design, business model, hiring. StarCraft II amateur.
+
+- Alessio Fanelli - [site](https://alessiofanelli.com), [twitter](https://twitter.com/fanahova)
+
+  > I invest in the [Engineering Value Chain Revolution](https://evcrevolution.com/) at 645 Ventures, as well as leading our engineering and data team. I also personally angel invest in infra, dev tools, security, and blockchain tech. I previously founded Smart Torvy, an open source home automation ecosystem, and was a lead engineer at early stage companies like [Welcome Tech](https://welcome.tech/). I contribute to different open source projects [on GitHub](https://github.com/fanahova) as well as writing about open source monetization, community management, and more. You can reach me on Twitter or at afanelli[at]645ventures.com
