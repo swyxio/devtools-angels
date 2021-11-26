@@ -15,6 +15,7 @@ Confirmed investments:
 - [Nhost.io](https://nhost.io/)
 - [Makelog](https://makelog.com/)
 - [Cased](https://cased.com/)
+- [Tangram](https://tangram.dev/)
 
 Intros made for: Lambdragon, Cloudthread...
 
