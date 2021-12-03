@@ -17,7 +17,7 @@ Confirmed investments:
 - [Cased](https://cased.com/)
 - [Tangram](https://tangram.dev/)
 
-Intros made for: Lambdragon, Cloudthread...
+Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration...
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
