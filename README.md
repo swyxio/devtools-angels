@@ -4,6 +4,8 @@ active angel investors in developer tools!
 
 There is **no particular order** here but we aim to be high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
+![image](https://user-images.githubusercontent.com/6764957/148619884-c11bcb66-02c7-4d5b-8d57-3d9f4386f65f.png)
+
 ## Dealflow
 
 This list has already helped [connect startup founders to angels](https://twitter.com/elitasson/status/1405616514972196866?s=20)!
@@ -17,15 +19,13 @@ Confirmed investments:
 - [Cased](https://cased.com/)
 - [Tangram](https://tangram.dev/)
 
-Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration...
+Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, 100ms.live...
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
-## Join Discord
+## Discord
 
-We share [dealflow in Discord](https://discord.gg/Zzqxwfge8W) for now but may setup a newsletter/no-fee syndicate someday.
-
-[![Discord Shield](https://discordapp.com/api/guilds/822583790773862470/widget.png?style=banner3)](https://discord.gg/Zzqxwfge8W)
+We share dealflow in Discord (invite only) for now but may setup a newsletter/no-fee syndicate someday.
 
 ## Angels
 
