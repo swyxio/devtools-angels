@@ -18,8 +18,12 @@ Confirmed investments:
 - [Makelog](https://makelog.com/)
 - [Cased](https://cased.com/)
 - [Tangram](https://tangram.dev/)
+- [100ms](https://techcrunch.com/2022/03/10/100ms-secures-20m-to-power-next-generation-of-live-video-apps/)
+- Railway.app
 
-Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, 100ms.live...
+Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim...
+
+We also have founders in the community who have listed their own raises: Mycelial, Ivy DL, Flightcontrol...
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
