@@ -157,3 +157,7 @@ No particular order, please dont read anything into the ordering
 - Alessio Fanelli - [site](https://alessiofanelli.com), [twitter](https://twitter.com/fanahova)
 
   > I invest in the [Engineering Value Chain Revolution](https://evcrevolution.com/) at 645 Ventures, as well as leading our engineering and data team. I also personally angel invest in infra, dev tools, security, and blockchain tech. I previously founded Smart Torvy, an open source home automation ecosystem, and was a lead engineer at early stage companies like [Welcome Tech](https://welcome.tech/). I contribute to different open source projects [on GitHub](https://github.com/fanahova) as well as writing about open source monetization, community management, and more. You can reach me on Twitter or at afanelli[at]645ventures.com
+
+- Charlie Marsh - [site](https://www.crmarsh.com/), [twitter](https://twitter.com/charliermarsh)
+
+  > Staff software engineer at [Spring Discovery](https://www.springdiscovery.com/), leading the development of the software and data platforms (everything from ETL to our internal ML frameworks to the front-end applications our scientists use to understand high-content biological + computer vision data). I invest through the [Caffeinated Capital](https://caffeinatedcapital.com/) Collective Fund writing $100k+ checks at the pre-seed and seed stages. I'm fortunate enough to spend most of my working hours writing code and am interested in _anything_ that makes it easier + faster to build better products.
