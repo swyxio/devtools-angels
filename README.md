@@ -165,3 +165,7 @@ No particular order, please dont read anything into the ordering
 - Charlie Marsh - [site](https://www.crmarsh.com/), [twitter](https://twitter.com/charliermarsh)
 
   > Staff software engineer at [Spring Discovery](https://www.springdiscovery.com/), leading the development of the software and data platforms (everything from ETL to our internal ML frameworks to the front-end applications our scientists use to understand high-content biological + computer vision data). I invest through the [Caffeinated Capital](https://caffeinatedcapital.com/) Collective Fund writing $100k+ checks at the pre-seed and seed stages. I'm fortunate enough to spend most of my working hours writing code and am interested in _anything_ that makes it easier + faster to build better products.
+
+- Alfonso Subiotto - [email](mailto:alfonsojssm@gmail.com) [site](https://asubiotto.com), [twitter](https://twitter.com/asubiotto), [github](https://github.com/asubiotto), [technical writing](https://www.cockroachlabs.com/blog/author/alfonso-subiotto-marques/)
+
+  > Previously swe/tech lead at Cockroach Labs from Series A to E focused on distributed execution engines and performance. Now investing in data & developer tools with personal checks in the $1-10k range at the pre-seed/seed stage. I also invest with [Lorimer Ventures](https://www.lorimerventures.com/) who write $100k+ checks. I/we can help with anything from technical writing/interviewing to GTM/pricing strategy.
