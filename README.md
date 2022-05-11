@@ -20,6 +20,7 @@ Confirmed investments:
 - [Tangram](https://tangram.dev/)
 - [100ms](https://techcrunch.com/2022/03/10/100ms-secures-20m-to-power-next-generation-of-live-video-apps/)
 - Railway.app
+- Stackblitz
 
 Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Onboardbase...
 
@@ -37,7 +38,7 @@ No particular order, please dont read anything into the ordering
 
 - swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
 
-  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - Replay.io ([Time travel debugging](https://a16z.com/2021/09/15/investing-in-replay/)), Supabase.io ([Open source Firebase](https://techcrunch.com/2021/09/09/supabase-raises-30m-for-its-open-source-insta-backend/), Flutterflow, Tangram).
+  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - Replay.io ([Time travel debugging](https://a16z.com/2021/09/15/investing-in-replay/)), Supabase.io ([Open source Firebase](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/), Flutterflow, Tangram).
   
 - David Mytton - [site](https://davidmytton.blog), [twitter](https://twitter.com/davidmytton), [podcast](https://podcast.console.dev), [email](mailto:david@console.dev)
   > I'm co-founder of [Console](https://console.dev), a place for developers to find the best tools. I invest around $25k in early stage devtools / devops / cloud related startups and can help specifically with getting your first users/customers, and with hiring engineers. From 2009-2018, I was CEO at Server Density, a SaaS infrastructure monitoring startup acquired by StackPath, a US-based edge computing business. I am a researcher in sustainable computing at Uptime Institute and affiliated with Imperial College London. I'm also an EIR at Seedcamp.
