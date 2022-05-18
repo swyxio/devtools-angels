@@ -70,10 +70,6 @@ No particular order, please dont read anything into the ordering
 
   > I am connected to the Heavybit Accelerator in San Francisco and work in the Developer Relations at GitHub. I invest my own money into early-stage startups and excited to learn about new Developer Tools. 
 
-- Gergely Orosz - [site](https://blog.pragmaticengineer.com/), [DM](https://twitter.com/GergelyOrosz)
-
-  > Previously at engineer and engineering manager at Uber and Skype. Interested in investing in platform engineering startups (including developer tools). On top of investing, I can help advise with running and growing lean and efficient engineering teams and help get some exposure to engineers through my [blog](https://blog.pragmaticengineer.com/stats/), [YouTube channel](https://www.youtube.com/c/mrgergelyorosz) and [Twitter](https://twitter.com/GergelyOrosz).
-
 - Brianne Kimmel - [twitter](https://twitter.com/briannekimmel), [Worklife.vc](https://www.worklife.vc/)
   
   > Worklife.vc, investor in Mux, WorkOS, Webflow, Stytch and more!
