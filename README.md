@@ -166,3 +166,7 @@ No particular order, please dont read anything into the ordering
 - Alfonso Subiotto - [email](mailto:alfonsojssm@gmail.com) [site](https://asubiotto.com), [twitter](https://twitter.com/asubiotto), [github](https://github.com/asubiotto), [technical writing](https://www.cockroachlabs.com/blog/author/alfonso-subiotto-marques/)
 
   > Previously swe/tech lead at Cockroach Labs from Series A to E focused on distributed execution engines and performance. Now investing in data & developer tools with personal checks in the $1-10k range at the pre-seed/seed stage. I also invest with [Lorimer Ventures](https://www.lorimerventures.com/) who write $100k+ checks. I/we can help with anything from technical writing/interviewing to GTM/pricing strategy.
+
+- Luke Michael Byrne - [site](https://byrnemluke.com), [twitter](https://twitter.com/byrnemluke)
+
+  > I invest in pre-seed & seed stage developer tools & infrastructure at Tapestry VC. I split my time here between investing, working with portfolio companies & writing code (building internal data tools), and hack on a lot of side projects in my free time. I occasionally [write](https://byrnemluke.com/posts/webassembly) about technologies that excite me & angel invest in the same areas. If you'd like to chat, feel free to [email me](mailto:luke@tapestry.vc) or book some time [to chat](https://calendly.com/byrneml).
