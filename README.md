@@ -22,7 +22,7 @@ Confirmed investments:
 - Railway.app
 - Stackblitz
 
-Intros made for: Vyne, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Onboardbase...
+Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Onboardbase...
 
 We also have founders in the community who have listed their own raises: Mycelial, Ivy DL, Flightcontrol...
 
@@ -170,3 +170,7 @@ No particular order, please dont read anything into the ordering
 - Luke Michael Byrne - [site](https://byrnemluke.com), [twitter](https://twitter.com/byrnemluke)
 
   > I invest in pre-seed & seed stage developer tools & infrastructure at Tapestry VC. I split my time here between investing, working with portfolio companies & writing code (building internal data tools), and hack on a lot of side projects in my free time. I occasionally [write](https://byrnemluke.com/posts/webassembly) about technologies that excite me & angel invest in the same areas. If you'd like to chat, feel free to [email me](mailto:luke@tapestry.vc) or book some time [to chat](https://calendly.com/byrneml).
+
+- Ekene Eze - [site](https://kenny.engineer), [twitter](https://twitter.com/kenny_io)
+
+  > As the Founding Director of Developer Experience at [Plasmic](https://plasmic.app/) I split my time organizing and executing our DevRel strategies and establishing + managing partner relationships. I also writing code / create educational content for developers of all experience levels and hack on side projects in my free time. I occasionally [write](https://kenny.engineer/blog) about technologies that excite me and hoping to angel invest in the same areas. If you'd like to chat, you can [email me](mailto:hello@kenny.engineer) or [book some time with me](https://calendly.com/kennyio/30min).
