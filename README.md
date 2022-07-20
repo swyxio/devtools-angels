@@ -170,3 +170,8 @@ No particular order, please dont read anything into the ordering
 - Luke Michael Byrne - [site](https://byrnemluke.com), [twitter](https://twitter.com/byrnemluke)
 
   > I invest in pre-seed & seed stage developer tools & infrastructure at Tapestry VC. I split my time here between investing, working with portfolio companies & writing code (building internal data tools), and hack on a lot of side projects in my free time. I occasionally [write](https://byrnemluke.com/posts/webassembly) about technologies that excite me & angel invest in the same areas. If you'd like to chat, feel free to [email me](mailto:luke@tapestry.vc) or book some time [to chat](https://calendly.com/byrneml).
+
+
+- Desigan Chinniah - [site](http://desiganchinniah.com), [twitter](https://twitter.com/cyberdees)
+
+  > I am a technologist with over two-decades of dot-com experiences, including Mozilla since Firefox 3.8 in early 2010. I invest early and have a small portfolio of developer related projects including [Replay](https://replay.io/), [Athens](https://www.athensresearch.org), [Axiom](https://axiom.ai/), [Kibo School](https://kibo.school/) and [Zama](https://www.zama.ai/). I am also a member of the board of the [Tor Project](https://www.torproject.org/). You've come this far, [say hello](mailto:hello@desiganchinniah.com).
