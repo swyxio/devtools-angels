@@ -178,3 +178,6 @@ No particular order, please dont read anything into the ordering
 - Desigan Chinniah - [site](http://desiganchinniah.com), [twitter](https://twitter.com/cyberdees)
 
   > I am a technologist with over two-decades of dot-com experiences, including Mozilla since Firefox 3.8 in early 2010. I invest early and have a small portfolio of developer related projects including [Replay](https://replay.io/), [Athens](https://www.athensresearch.org), [Axiom](https://axiom.ai/), [Kibo School](https://kibo.school/) and [Zama](https://www.zama.ai/). I am also a member of the board of the [Tor Project](https://www.torproject.org/). You've come this far, [say hello](mailto:hello@desiganchinniah.com).
+
+- Gyan Kapur  - [site](http://surface.vc), [twitter](https://twitter.com/KapurGyan)
+  > I run a fund that is focused on B2B software including developer tools, data infrastructure, and DevOps.  Fairly polyglot in the developer space, started writing code actively (Perl) back in 2000 when I was 13 and have build some distributed pricing systems for synthetic credit and currency exotic options in the early 2010s when we called the cloud "the grid."
