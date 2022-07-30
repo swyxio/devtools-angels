@@ -174,3 +174,7 @@ No particular order, please dont read anything into the ordering
 - Ekene Eze - [site](https://kenny.engineer), [twitter](https://twitter.com/kenny_io)
 
   > As the Founding Director of Developer Experience at [Plasmic](https://plasmic.app/) I split my time organizing and executing our DevRel strategies and establishing + managing partner relationships. I also writing code / create educational content for developers of all experience levels and hack on side projects in my free time. I occasionally [write](https://kenny.engineer/blog) about technologies that excite me and hoping to angel invest in the same areas. If you'd like to chat, you can [email me](mailto:hello@kenny.engineer) or [book some time with me](https://calendly.com/kennyio/30min).
+
+- Desigan Chinniah - [site](http://desiganchinniah.com), [twitter](https://twitter.com/cyberdees)
+
+  > I am a technologist with over two-decades of dot-com experiences, including Mozilla since Firefox 3.8 in early 2010. I invest early and have a small portfolio of developer related projects including [Replay](https://replay.io/), [Athens](https://www.athensresearch.org), [Axiom](https://axiom.ai/), [Kibo School](https://kibo.school/) and [Zama](https://www.zama.ai/). I am also a member of the board of the [Tor Project](https://www.torproject.org/). You've come this far, [say hello](mailto:hello@desiganchinniah.com).
