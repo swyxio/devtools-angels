@@ -26,6 +26,8 @@ Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Ap
 
 We also have founders in the community who have listed their own raises: Mycelial, Ivy DL, Flightcontrol...
 
+And we sometimes [meet up IRL](https://twitter.com/rishabhkaul/status/1554850381049520129?s=12&t=5ugP3PflZlL9Ihhbzrku1g)! :) 
+
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
 ## Discord
