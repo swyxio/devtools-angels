@@ -24,9 +24,11 @@ Confirmed investments:
 - [Everfund](https://everfund.io)
 - [Medusa](https://medusajs.com)
 
-Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io...
+Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io...
 
 We also have founders in the community who have listed their own raises: Mycelial, Ivy DL, Flightcontrol...
+
+And we sometimes [meet up IRL](https://twitter.com/rishabhkaul/status/1554850381049520129?s=12&t=5ugP3PflZlL9Ihhbzrku1g)! :) 
 
 > For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
 
