@@ -1,6 +1,6 @@
 # devtools-angels
 
-active angel investors in developer tools! 
+Active angel investors in developer tools! 
 
 There is **no particular order** here but we aim to be high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
@@ -19,10 +19,12 @@ Confirmed investments:
 - [Cased](https://cased.com/)
 - [Tangram](https://tangram.dev/)
 - [100ms](https://techcrunch.com/2022/03/10/100ms-secures-20m-to-power-next-generation-of-live-video-apps/)
-- Railway.app
-- Stackblitz
+- [Railway](https://railway.app/)
+- [Stackblitz](https://stackblitz.com/)
+- [Everfund](https://everfund.io)
+- [Medusa](https://medusajs.com)
 
-Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Onboardbase, Metricsbird.io, Platformatic...
+Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io...
 
 We also have founders in the community who have listed their own raises: Mycelial, Ivy DL, Flightcontrol...
 
@@ -36,7 +38,7 @@ We share dealflow in Discord (invite only) for now but may setup a newsletter/no
 
 ## Angels
 
-No particular order, please dont read anything into the ordering
+No particular order, please don't read anything into the ordering
 
 - swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
 
@@ -55,10 +57,6 @@ No particular order, please dont read anything into the ordering
 - Michael Grinich - [DM](https://twitter.com/grinich/status/1357103620613840898?s=20)
 
   > I’m a technologist. I studied CS at MIT and still write code. When I invest, I specifically look for technical founders building dev tools, API platforms, and “unloved” workflow cloud SaaS. I founded both Nylas and WorkOS and worked at Dropbox so this is an area I know well. My typical check size is around $100k but I can flex and get creative for bigger rounds too. If I invest, I will offer introductions to other investors I know (and like). This can help fill out a larger round. [more here](https://twitter.com/grinich/status/1357103610421673984?s=20)
-
-- Cassidy Williams - [site](https://cassidoo.co)
-
-  > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. [DMing me on Twitter](https://twitter.com/cassidoo) is the fastest way to reach me.
 
 - Beyang Liu - [site](https://beyang.org/time-to-build-dev-tools.html), [DM](https://twitter.com/beyang), [podcast](https://about.sourcegraph.com/podcast/)
 
@@ -180,3 +178,11 @@ No particular order, please dont read anything into the ordering
 - Desigan Chinniah - [site](http://desiganchinniah.com), [twitter](https://twitter.com/cyberdees)
 
   > I am a technologist with over two-decades of dot-com experiences, including Mozilla since Firefox 3.8 in early 2010. I invest early and have a small portfolio of developer related projects including [Replay](https://replay.io/), [Athens](https://www.athensresearch.org), [Axiom](https://axiom.ai/), [Kibo School](https://kibo.school/) and [Zama](https://www.zama.ai/). I am also a member of the board of the [Tor Project](https://www.torproject.org/). You've come this far, [say hello](mailto:hello@desiganchinniah.com).
+
+## Angel Alums
+
+Paused Investing but still open to chat/want to be on our list.
+
+- Cassidy Williams - [site](https://cassidoo.co)
+
+  > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. [DMing me on Twitter](https://twitter.com/cassidoo) is the fastest way to reach me.
