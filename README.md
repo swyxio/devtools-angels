@@ -179,7 +179,12 @@ No particular order, please don't read anything into the ordering
 
   > I am a technologist with over two-decades of dot-com experiences, including Mozilla since Firefox 3.8 in early 2010. I invest early and have a small portfolio of developer related projects including [Replay](https://replay.io/), [Athens](https://www.athensresearch.org), [Axiom](https://axiom.ai/), [Kibo School](https://kibo.school/) and [Zama](https://www.zama.ai/). I am also a member of the board of the [Tor Project](https://www.torproject.org/). You've come this far, [say hello](mailto:hello@desiganchinniah.com).
 
+- Kareem Kouddous - [twitter](https://twitter.com/kareemk)
+  
+  > Founder & CTO at [Suzy](https://suzy.com), Founder & CTO at [Koko](https://kokocares.org) which sold to Airbnb and then relaunched as a non-profit (one of the two as part of YC W22). My superpower has always been figuring out how to build the least amount of product possible by finding tools and services to offload work to. At Airbnb I conceived and lead major projects to bring in vendors so that the relatively small trust and safety team could focus on truly unique problems to solve. I invest in early stage 10-20k checks, mainly focused on devtools but also technology that can meaninfully make a positive difference to society. I code almost every day, most recently falling in love with Rust. Feel free to [email me](mailto:kkouddous+investing@gmail.com) or [book time with me](https://calendly.com/kareemk).
+   
 - Gyan Kapur  - [site](http://surface.vc), [twitter](https://twitter.com/KapurGyan)
+  
   > I run a fund that is focused on B2B software including developer tools, data infrastructure, and DevOps.  Fairly polyglot in the developer space, started writing code actively (Perl) back in 2000 when I was 13 and have build some distributed pricing systems for synthetic credit and currency exotic options in the early 2010s when we called the cloud "the grid."
   
 ## Angel Alums
