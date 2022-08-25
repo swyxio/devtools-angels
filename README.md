@@ -1,6 +1,6 @@
 # devtools-angels
 
-active angel investors in developer tools! 
+Active angel investors in developer tools! 
 
 There is **no particular order** here but we aim to be high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
@@ -19,10 +19,12 @@ Confirmed investments:
 - [Cased](https://cased.com/)
 - [Tangram](https://tangram.dev/)
 - [100ms](https://techcrunch.com/2022/03/10/100ms-secures-20m-to-power-next-generation-of-live-video-apps/)
-- Railway.app
-- Stackblitz
+- [Railway](https://railway.app/)
+- [Stackblitz](https://stackblitz.com/)
+- [Everfund](https://everfund.io)
+- [Medusa](https://medusajs.com)
 
-Intros made for: Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Onboardbase, Metricsbird.io, Platformatic...
+Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io...
 
 We also have founders in the community who have listed their own raises: Mycelial, Ivy DL, Flightcontrol...
 
@@ -36,7 +38,7 @@ We share dealflow in Discord (invite only) for now but may setup a newsletter/no
 
 ## Angels
 
-No particular order, please dont read anything into the ordering
+No particular order, please don't read anything into the ordering
 
 - swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
 
@@ -55,10 +57,6 @@ No particular order, please dont read anything into the ordering
 - Michael Grinich - [DM](https://twitter.com/grinich/status/1357103620613840898?s=20)
 
   > I’m a technologist. I studied CS at MIT and still write code. When I invest, I specifically look for technical founders building dev tools, API platforms, and “unloved” workflow cloud SaaS. I founded both Nylas and WorkOS and worked at Dropbox so this is an area I know well. My typical check size is around $100k but I can flex and get creative for bigger rounds too. If I invest, I will offer introductions to other investors I know (and like). This can help fill out a larger round. [more here](https://twitter.com/grinich/status/1357103610421673984?s=20)
-
-- Cassidy Williams - [site](https://cassidoo.co)
-
-  > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. [DMing me on Twitter](https://twitter.com/cassidoo) is the fastest way to reach me.
 
 - Beyang Liu - [site](https://beyang.org/time-to-build-dev-tools.html), [DM](https://twitter.com/beyang), [podcast](https://about.sourcegraph.com/podcast/)
 
@@ -185,5 +183,18 @@ No particular order, please dont read anything into the ordering
 
   > I am a PM with a decade of product experience across data analytics and dev tools product. I'm currently the product lead for HashiCorp's [Waypoint](https://www.waypointproject.io/), a application delivery platform. I also invest in developer tools as a scout for Greylock. Previously, I was a product manager at GitHub where I helped build Secret Scanning and Security Overview. I also served as a tech policy advisor to US Senator Tom Udall.  If you'd like to chat, you [email me](mailto:ooadebayo@gmail.com) or [book time with me](https://calendly.com/bukky-hashicorp/angel-investing)
 
+- Kareem Kouddous - [twitter](https://twitter.com/kareemk)
+  
+  > Founder & CTO at [Suzy](https://suzy.com), Founder & CTO at [Koko](https://kokocares.org) which sold to Airbnb and then relaunched as a non-profit (one of the two as part of YC W22). My superpower has always been figuring out how to build the least amount of product possible by finding tools and services to offload work to. At Airbnb I conceived and lead major projects to bring in vendors so that the relatively small trust and safety team could focus on truly unique problems to solve. I invest in early stage 10-20k checks, mainly focused on devtools but also technology that can meaninfully make a positive difference to society. I code almost every day, most recently falling in love with Rust. Feel free to [email me](mailto:kkouddous+investing@gmail.com) or [book time with me](https://calendly.com/kareemk).
+   
+- Gyan Kapur  - [site](http://surface.vc), [twitter](https://twitter.com/KapurGyan)
+  
+  > I run a fund that is focused on B2B software including developer tools, data infrastructure, and DevOps.  Fairly polyglot in the developer space, started writing code actively (Perl) back in 2000 when I was 13 and have build some distributed pricing systems for synthetic credit and currency exotic options in the early 2010s when we called the cloud "the grid."
+  
+## Angel Alums
 
+Paused Investing but still open to chat/want to be on our list.
 
+- Cassidy Williams - [site](https://cassidoo.co)
+
+  > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. [DMing me on Twitter](https://twitter.com/cassidoo) is the fastest way to reach me.
