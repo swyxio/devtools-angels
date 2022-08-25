@@ -178,6 +178,10 @@ No particular order, please don't read anything into the ordering
 - Desigan Chinniah - [site](http://desiganchinniah.com), [twitter](https://twitter.com/cyberdees)
 
   > I am a technologist with over two-decades of dot-com experiences, including Mozilla since Firefox 3.8 in early 2010. I invest early and have a small portfolio of developer related projects including [Replay](https://replay.io/), [Athens](https://www.athensresearch.org), [Axiom](https://axiom.ai/), [Kibo School](https://kibo.school/) and [Zama](https://www.zama.ai/). I am also a member of the board of the [Tor Project](https://www.torproject.org/). You've come this far, [say hello](mailto:hello@desiganchinniah.com).
+  
+- Bukky Adebayo - [site](http://bukky.dev), [twitter](https://twitter.com/bukkyadebayo)
+
+  > I am a PM with a decade of product experience across data analytics and dev tools product. I'm currently the product lead for HashiCorp's [Waypoint](https://www.waypointproject.io/), a application delivery platform. I also invest in developer tools as a scout for Greylock. Previously, I was a product manager at GitHub where I helped build Secret Scanning and Security Overview. I also served as a tech policy advisor to US Senator Tom Udall.  If you'd like to chat, you [email me](mailto:ooadebayo@gmail.com) or [book time with me](https://calendly.com/bukky-hashicorp/angel-investing)
 
 - Kareem Kouddous - [twitter](https://twitter.com/kareemk)
   
