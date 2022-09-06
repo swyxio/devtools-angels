@@ -194,7 +194,11 @@ No particular order, please don't read anything into the ordering
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
 > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
-  
+
+- Debosmit Ray - [email](mailto:ray.debosmit92@gmail.com), [linkedin](https://www.linkedin.com/in/debosmit-ray-debo-76725988/)
+
+> Currently, co-founder and CEO at [DevZero](devzero.io). Previously, staff engineer at Uber working on infra, devtools and security. I care deeply about developers, developer productivity and overall developer experience. I invest in devtools, infra and security companies and mainly focus on the pre-seed and seed stages. I invest between $10-25k and help with core engineering, fundraising, hiring, and early customer conversations.
+
 ## Angel Alums
 
 Paused Investing but still open to chat/want to be on our list.
