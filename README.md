@@ -193,8 +193,12 @@ No particular order, please don't read anything into the ordering
 
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
-> I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
-  
+  > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+
+- Ian Storm Taylor - [twitter](https://twitter.com/ianstormtaylor), [github](https://github.com/ianstormtaylor/), [email](mailto:ian@ianstormtaylor.com)
+
+  > I'm a designer and developer, co-founder of [Segment](https://segment.com), and creator of open-source tools like [Slate](https://github.com/ianstormtaylor/slate), [Superstruct](https://github.com/ianstormtaylor/superstruct), etc. I periodically write $10–25K checks to founders building developer/designer tools I’d want to use myself, where I think I can be helpful with early stage product, design, engineering, and marketing problems.
+
 ## Angel Alums
 
 Paused Investing but still open to chat/want to be on our list.
