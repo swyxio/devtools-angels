@@ -194,6 +194,12 @@ No particular order, please don't read anything into the ordering
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
 > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+
+- Ahmad Awais [site](https://awais.dev/about), [twitter](https://twitter.com/mrahmadawais), [email](mailto:me@AhmadAwais.com)
+
+> I'm an award-winning open-source engineer. VP of Developer Relations (DevRel & DX) at RapidAPI. Two exits, one acquisition. My software serves millions of developers, proud code contribution to NASA Ingenuity Mars mission (GitHub Stars gold award). I love automating silly grunt work with CLIs and big fan of dev-tools and dev-productivity startups. I invest time and money in developer-focused startups with diverse teams, bold ideas, and automation. [DMing me on Twitter](https://twitter.com/MrAhmadAwais/) is the fastest way to reach me.
+
+
   
 ## Angel Alums
 
