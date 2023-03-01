@@ -195,10 +195,12 @@ No particular order, please don't read anything into the ordering
 
 > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
   
+- Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
+
+  > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
+  
 ## Angel Alums
 
 Paused Investing but still open to chat/want to be on our list.
 
-- Cassidy Williams - [site](https://cassidoo.co)
-
-  > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. [DMing me on Twitter](https://twitter.com/cassidoo) is the fastest way to reach me.
+**None currently!** 🎉
