@@ -23,6 +23,8 @@ Confirmed investments:
 - [Stackblitz](https://stackblitz.com/)
 - [Everfund](https://everfund.io)
 - [Medusa](https://medusajs.com)
+- [E2B.dev](https://github.com/e2b-dev/e2b)
+- (we've lost count...)
 
 Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io...
 
