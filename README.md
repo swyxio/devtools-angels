@@ -200,6 +200,10 @@ No particular order, please don't read anything into the ordering
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
+
+- Mike Piccolo - [twitter](https://twitter.com/kareemk)
+  
+  > Cofounder & CTO at [FullStack](https://www.fullstack.com/) and [FullStack Labs](https://www.fullstacklabs.co/) software consulting and Latin American talent network. I invest in pre-seed & seed-stage developer tools, AI, and b2b SaaS. Feel free to DM me [@mfpiccolo](https://twitter.com/mfpiccolo).
   
 ## Angel Alums
 
