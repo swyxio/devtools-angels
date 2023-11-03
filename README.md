@@ -26,9 +26,9 @@ Confirmed investments:
 - [E2B.dev](https://github.com/e2b-dev/e2b)
 - (we've lost count...)
 
-Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io...
+Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io, Bandar Systems, Second.dev, Leap Labs...
 
-We also have founders in the community who have listed their own raises: Mycelial, Ivy DL, Flightcontrol...
+We also have founders in the community who have listed their own raises: Recursal.ai, Mycelial, Ivy DL, Flightcontrol...
 
 And we sometimes [meet up IRL](https://twitter.com/rishabhkaul/status/1554850381049520129?s=12&t=5ugP3PflZlL9Ihhbzrku1g)! :) 
 
@@ -44,7 +44,7 @@ No particular order, please don't read anything into the ordering
 
 - swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
 
-  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k personal checks and $25-100k scout checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - [Circle](https://circle.so/), [Replay.io](https://a16z.com/2021/09/15/investing-in-replay/), [Supabase](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/), [Flutterflow](https://www.producthunt.com/posts/flutterflow-3-0), [EdgeDB](https://news.ycombinator.com/item?id=30290225), [Chroma](https://twitter.com/trychroma)).
+  > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k personal checks and $25-100k scout checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - [Circle](https://circle.so/), [Replay.io](https://a16z.com/2021/09/15/investing-in-replay/), [Supabase](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/), [Flutterflow](https://www.producthunt.com/posts/flutterflow-3-0), [EdgeDB](https://news.ycombinator.com/item?id=30290225), [Chroma](https://twitter.com/trychroma)), [MatX](https://twitter.com/reinerpope/status/1687613039108046848).
   
 - David Mytton - [site](https://davidmytton.blog), [twitter](https://twitter.com/davidmytton), [podcast](https://podcast.console.dev), [email](mailto:david@console.dev)
   > I'm co-founder of [Console](https://console.dev), a place for developers to find the best tools. I invest around $25k in early stage devtools / devops / cloud related startups and can help specifically with getting your first users/customers, and with hiring engineers. From 2009-2018, I was CEO at Server Density, a SaaS infrastructure monitoring startup acquired by StackPath, a US-based edge computing business. I am a researcher in sustainable computing at Uptime Institute and affiliated with Imperial College London. I'm also an EIR at Seedcamp.
