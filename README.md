@@ -200,6 +200,10 @@ No particular order, please don't read anything into the ordering
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
+
+- Nikitha Suryadevara - [site](https://nikitha.co/), [twitter](https://twitter.com/__nikitha)
+
+  > PM at Temporal. Previously PM at Google working on Borg and at VMware working on Kubernetes. I invest in developer tooling and infrastructure startups. If you'd like to chat, [email me](mailto:me@nikitha.co) or DM me on Twitter!
   
 ## Angel Alums
 
