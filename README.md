@@ -24,9 +24,11 @@ Confirmed investments:
 - [Everfund](https://everfund.io)
 - [Medusa](https://medusajs.com)
 - [E2B.dev](https://github.com/e2b-dev/e2b)
+- [Tramline.app](https://tramline.app)
+- [Langbase](https://langbase.com/)
 - (we've lost count...)
 
-Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io, Bandar Systems, Second.dev, Leap Labs...
+Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io, Bandar Systems, Second.dev, Leap Labs, DeeptrustAI...
 
 We also have founders in the community who have listed their own raises: Recursal.ai, Mycelial, Ivy DL, Flightcontrol...
 
