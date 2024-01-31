@@ -198,6 +198,10 @@ No particular order, please don't read anything into the ordering
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
 > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+
+- Timothy Chen - [email](mailto:tim@essencevc.fund), [twitter](https://twitter.com/tnachen)
+
+> I am currently the founder of Essence VC that invests in developer and data products. I was previously CEO / founder of Hyperpilot (raised from NEA/BVP, exited to Cloudera), early employee at Mesosphere & Lightning.ai & CloudFoundry, active in the open source space (Apache Foundation Member). 
   
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
