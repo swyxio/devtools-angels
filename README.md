@@ -195,6 +195,12 @@ No particular order, please don't read anything into the ordering
   
   > I run a fund that is focused on B2B software including developer tools, data infrastructure, and DevOps.  Fairly polyglot in the developer space, started writing code actively (Perl) back in 2000 when I was 13 and have build some distributed pricing systems for synthetic credit and currency exotic options in the early 2010s when we called the cloud "the grid."
 
+- Ben Seymour  - [site](http://benseymour.com), [twitter](https://twitter.com/bseymour)
+  
+  > Revenue, growth and expansion focused leader, former developer, occasional author - currently Director of Sales Engineering at Vercel, previously Adobe, Cloudinary. Based in Oxford, (U.K.) with 15+ years experience as remote-first member of US, IL and UK startups - often as first hire in role or region. Proven track record in bringing new products and services to market, or existing ones to new markets and territories. 
+Co-founder of several startups in the family physical health, family mental health, and family storytelling and retention spaces. I've previously invested in SaaS services relating to media management, content management and knowledge management - typically invest at the $1-10k tier and occasionally in the $50k tier.
+
+
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
 > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
