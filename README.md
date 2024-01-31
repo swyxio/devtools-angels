@@ -202,6 +202,10 @@ No particular order, please don't read anything into the ordering
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
+
+- Nick Sullivan - [site](https://nicksullivan.org), [twitter](https://twitter.com/grittygrease), [linkedin](https://linkedin.com/in/ntsullivan)
+
+> I have a keen eye for innovative businesses and have a particular focus on empowering developers to enhance privacy and security online. Building on my experince building digital services at Apple and helping Cloudflare grow from a 40 person startup to a successful public company as an engineer, manager and Head of Research, I aim to create lasting value for the companies I invest in, and the industry as a whole. My investments range from 2k-20k depending on the stage of the company. You can reach me via LinkedIn, e-mail, or Twitter DM.
   
 ## Angel Alums
 
