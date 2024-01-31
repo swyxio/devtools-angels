@@ -203,6 +203,10 @@ No particular order, please don't read anything into the ordering
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
   
+- Ani Mohan - [site](https://animohan.me/), [twitter](https://twitter.com/ani_c_mohan), [linkedin](https://www.linkedin.com/in/anirudhmohan/)
+
+  > Building an LLM-powered app development platform for non-developers. Previously co-founded and sold a gaming business to Google (GameSnacks). I invest in developer-focused startups using AI in creative ways (as well as consumer and media startups). I love helping founders with management, conflict resolution, product strategy, user research, communications, and managing their psychology.
+
 ## Angel Alums
 
 Paused Investing but still open to chat/want to be on our list.
