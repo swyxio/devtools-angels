@@ -197,7 +197,11 @@ No particular order, please don't read anything into the ordering
 
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
-> I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+  > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+  
+- Ian McCrystal - [twitter](https://twitter.com/ianmst)
+
+  > Head of developer docs at Stripe. 10-20k checks. SF based. Feel free to DM me on Twitter.
   
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
