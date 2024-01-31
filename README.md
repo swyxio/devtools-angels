@@ -197,7 +197,11 @@ No particular order, please don't read anything into the ordering
 
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
-> I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+  > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+
+- Paul Klein IV - [site](https://hawkhill.ventures), [twitter](https://twitter.com/pk_iv), [memos](https://memos.hawkhill.ventures), [email](mailto:paul@hawkhill.ventures)
+
+  > I'm a software engineer and startup founder focused on developer tools and infrastructure. I've fundraised, built, and sold startups before and now spend most of my time advising other founders. I've worked at developer tools companies such as Twilio and Mux. Now, I invest in pre-product, pre-seed, and seed startups with $5-15k personal checks and $10-25k scout checks for a16z.
   
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
