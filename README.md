@@ -206,6 +206,10 @@ No particular order, please don't read anything into the ordering
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
+
+- Thiago Avelino - [site](https://avelino.run), [twitter](https://twitter.com/avelinorun)
+
+  > I'm passionate about open source and open startup culture. I've created and maintain several open source projects/products, the most popular being [awesome-go](https://github.com/avelino/awesome-go), [moclojer](https://github.com/moclojer/moclojer), [prestd](https://github.com/prest/prest), and [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap). I can help with technology strategy, product launch strategy (market entry), and open culture (open source and open startup). I make small personal investments, and for larger sums, I involve my VC (above series A).
   
 - Ivan Burazin - [twitter](https://twitter.com/ivanburazin), [linkedin](https://linkedin.com/in/ivanburazin)
 
